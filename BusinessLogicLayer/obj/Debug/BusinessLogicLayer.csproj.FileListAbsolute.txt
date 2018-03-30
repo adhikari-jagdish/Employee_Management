@@ -1,0 +1,6 @@
+C:\Users\jagdish\Documents\Visual Studio 2012\Projects\Employee_Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\jagdish\Documents\Visual Studio 2013\Projects\Employee_Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\jagdish\Documents\Visual Studio 2013\Projects\Employee_Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\jagdish\Documents\Visual Studio 2013\Projects\Employee_Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\jagdish\Documents\Visual Studio 2013\Projects\Employee_Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\jagdish\Documents\Visual Studio 2013\Projects\Employee_Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
